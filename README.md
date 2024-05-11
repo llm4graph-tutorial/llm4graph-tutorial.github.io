@@ -1,7 +1,7 @@
 # The Web Conference 2024 Tutorial: Recent Advances in Generative Information Retrieval
 
 
-The website is [here](https://TheWebConf2024-generative-IR.github.io).
+The website is [here](https://llm4graph-tutorial.github.io/).
 
 
 <!-- The code is adapted from the [Nerfies website](https://nerfies.github.io). -->
