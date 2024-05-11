@@ -1,4 +1,4 @@
-# The Web Conference 2024 Tutorial: Recent Advances in Generative Information Retrieval
+# The Web Conference (WWW) 2024 Tutorial: Large Language Models for Graphs: Progresses and Directions
 
 
 The website is [here](https://llm4graph-tutorial.github.io/).
