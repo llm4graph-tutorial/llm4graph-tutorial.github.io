@@ -1,4 +1,4 @@
-# The Web Conference (WWW) 2024 Tutorial: Large Language Models for Graphs: Progresses and Directions
+# WWW 2024 & KDD 2024 Tutorial: Large Language Models for Graphs: Progresses and Directions
 
 
 The website is [here](https://llm4graph-tutorial.github.io/).
